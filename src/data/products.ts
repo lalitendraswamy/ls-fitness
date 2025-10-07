@@ -3,7 +3,7 @@ import { Product } from '@/types/product';
 export const products: Product[] = [
   {
     id: '1',
-    name: 'PowerMax Adjustable Dumbbells',
+    name: 'PowerMax Adjustable Dumbbells - Air Fryer',
     category: 'equipment',
     price: 299.99,
     originalPrice: 399.99,
@@ -18,7 +18,7 @@ export const products: Product[] = [
       'Anti-roll design',
       'Comfortable grip handles'
     ],
-    affiliateLink: 'https://amzn.in/d/4leWUcY',
+    affiliateLink: 'https://amzn.to/4mQISdy',
     inStock: true,
     featured: true,
   },
