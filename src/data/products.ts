@@ -3,7 +3,7 @@ import { Product } from '@/types/product';
 export const products: Product[] = [
   {
     id: '1',
-    name: 'PowerMax Adjustable Dumbbells - Air Fryer',
+    name: 'PowerMax Adjustable Dumbbells - T shirt',
     category: 'equipment',
     price: 299.99,
     originalPrice: 399.99,
@@ -18,13 +18,13 @@ export const products: Product[] = [
       'Anti-roll design',
       'Comfortable grip handles'
     ],
-    affiliateLink: 'https://amzn.to/4mQISdy',
+    affiliateLink: 'https://amzn.to/4791NKS',
     inStock: true,
     featured: true,
   },
   {
     id: '2',
-    name: 'Elite Performance Resistance Bands Set',
+    name: 'Elite Performance Resistance Bands Set - Clock',
     category: 'equipment',
     price: 49.99,
     rating: 4.6,
@@ -38,7 +38,7 @@ export const products: Product[] = [
       'Carrying bag',
       'Workout guide included'
     ],
-    affiliateLink: 'https://amzn.in/d/4leWUcY',
+    affiliateLink: 'https://amzn.to/3J5YlIS',
     inStock: true,
     featured: true,
   },
